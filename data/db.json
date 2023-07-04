@@ -1,0 +1,52 @@
+{
+  "decks": [
+    {
+      "name": "New dweck",
+      "description": "It's time to DUEL!",
+      "id": 1
+    },
+    {
+      "name": "hhhhhhhhhhhhhhhh",
+      "description": "hhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "id": 2
+    }
+  ],
+  "cards": [
+    {
+      "front": "hhhhhhhhhhh",
+      "back": "hhhhhhhhhhhhhhhhhh",
+      "deckId": 2,
+      "id": 2
+    },
+    {
+      "front": "hhhhhhhhhhhhh",
+      "back": "hhhhhhhhhhhhhhhhhhhh",
+      "deckId": 2,
+      "id": 3
+    },
+    {
+      "front": "hhhhhhhhhhh",
+      "back": "hhhhhhhhhhhhhhhhhh",
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "front": "vvvvvvvvvvvvvvvvvv",
+      "back": "vvvvvvvvvvvvvvv",
+      "deckId": 1,
+      "id": 5
+    },
+    {
+      "front": "vvvvvvvvvvvvvvvvvvvv",
+      "back": "vvvvvvvvvvvvvvvvv",
+      "deckId": 1,
+      "id": 6
+    },
+    {
+      "front": "vvvvvvvvvvvvvvvvv",
+      "back": "vvvvvvvvvvvvvvv",
+      "deckId": 1,
+      "id": 7
+    }
+  ]
+}
