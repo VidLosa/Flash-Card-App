@@ -28,7 +28,6 @@ The pages for creating and updating a deck use the same form. When updating a de
 # Create / Update Card
 The pages for creating and updating a card also use the same form. When updating a card, the fields are pre-filled with the current values. Clicking Submit after adding a card clears the form, allowing the user to create more cards. When updating a card, clicking Submit returns the user to the View Deck screen. Clicking Cancel on either form returns the user to the View Deck screen.
 
-Acknowledgments
+# Acknowledgments
 Special thanks to the team at Thinkful and all contributors who have contributed to this project.
-
 Happy studying and enjoy using the Thinkful Flashcard App!
